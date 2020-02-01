@@ -10,7 +10,7 @@
     <div class="row">
         <div class="card col-5 offset-3 bg-light shadow ">
             <div class="card-body text-center ">
-                <h1>Tous nos types de spectacles</h1>
+                <h1>Programme des spectacles</h1>
     <?php
     function connectDb() {
         require_once 'params.php';
